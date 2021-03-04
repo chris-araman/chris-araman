@@ -1,16 +1,13 @@
-### Hi there 👋
+👋🏼 Hello! مرحبا
 
-<!--
-**chris-araman/chris-araman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔨 I'm currently working on some personal projects while publishing some bits and bobs that seem like they might be useful to the open source community.
 
-Here are some ideas to get you started:
+✨ I'm interested in learning new languages and technologies, networking and collaboration, and building new and useful things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😻 My cat Fuji is a frequent collaborator.
+
+👨🏻‍💻 Spaces. Two. 120.
+
+🚀 Your sponsorship will enable me to spend more time contributing to open source projects. Thanks for your support!
+
+🏳️‍🌈🇵🇸✊🏿⛺️🎶 You are not alone.
