@@ -1,4 +1,4 @@
-👋🏼 Hello! مرحبا
+# 👋🏼 Hello! مرحبا
 
 🔨 I'm currently working on some personal projects while publishing some bits and bobs that seem like they might be useful to the open source community.
 
@@ -11,3 +11,7 @@
 🚀 Your sponsorship will enable me to spend more time contributing to open source projects. Thanks for your support!
 
 🏳️‍🌈🇵🇸✊🏿⛺️🎶 You are not alone.
+
+# My Business Card
+
+[![Add to Apple Wallet](resources/wallet.svg)](https://github.com/chris-araman/chris-araman/raw/main/ChrisAraman.pkpass)
