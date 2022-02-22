@@ -8,8 +8,6 @@
 
 👨🏻‍💻 Spaces. Two. 120.
 
-🚀 Your sponsorship will enable me to spend more time contributing to open source projects. Thanks for your support!
-
 🏳️‍🌈🇵🇸✊🏿⛺️🎶 You are not alone.
 
 # My Business Card
